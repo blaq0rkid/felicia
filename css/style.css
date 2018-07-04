@@ -135,8 +135,8 @@ footer {
     }
 }
 
-@media(max-width: 414px){
-    .ptext {
-        font-size: 6px;
-    }
+    @media(min-width: 415px){
+        .pimg2.ptext h1 span {
+            font-size: 2px;
+        }
 }
